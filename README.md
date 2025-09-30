@@ -7,7 +7,8 @@ Structural patterns focus on how classes and objects are composed to form larger
 
 ## Implemented Patterns
 
-### 1. Adapter Pattern
+<details>
+<summary>### 1. Adapter Pattern</summary>
 
 **Intent:**  
 The Adapter Pattern allows objects with incompatible interfaces to work together.  
