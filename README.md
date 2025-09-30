@@ -26,14 +26,15 @@ Instead of rewriting the old system, we used an **Adapter (`MessengerAdaptorClas
 Src/
 └── Adapter/
     ├── Interfaces/
-    │ └── MessengerInterface.php
+    │   └── MessengerInterface.php
     ├── OldServiceMessenger/
-    │ └── OldClass.php
+    │   └── OldClass.php
     ├── NewServiceMessenger/
-    │ └── NewClass.php
+    │   └── NewClass.php
     ├── Adapters/
-    │ └── MessengerAdaptorClass.php
+    │   └── MessengerAdaptorClass.php
     └── MessengerClass.php
+
 
 ---
 
