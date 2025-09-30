@@ -21,8 +21,9 @@ Instead of rewriting the old system, we used an **Adapter (`MessengerAdaptorClas
 
 ---
 
-### 📂 Project Structure (Fro Adapter)
+### 📂 Project Structure (For Adapter)
 
+```text
 Src/
 └── Adapter/
     ├── Interfaces/
@@ -34,7 +35,7 @@ Src/
     ├── Adapters/
     │   └── MessengerAdaptorClass.php
     └── MessengerClass.php
-
+```
 
 ---
 
